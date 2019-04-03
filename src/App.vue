@@ -3,6 +3,7 @@
     <img width="25%" src="./assets/logo.png">
     <HelloWorld/>
   </div>
+
 </template>
 
 <script>
